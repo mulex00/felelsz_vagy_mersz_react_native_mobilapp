@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-275794328/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-275794328/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-275794328/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-275794328/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-275794328/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-275794328/react-native-gradle-plugin.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/truthordare2.iml" filepath="$PROJECT_DIR$/.idea/modules/truthordare2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/truthordare2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/truthordare2.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/truthordare2.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/truthordare2.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/truthordare2.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/truthordare2.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/truthordare2.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/truthordare2.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1750701186/truthordare2.react-native-safe-area-context.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-2146668266/truthordare2.react-native-screens.unitTest.iml" />
+    </modules>
+  </component>
+</project>

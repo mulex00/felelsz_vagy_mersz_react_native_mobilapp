@@ -1,0 +1,4 @@
+#Sun Sep 25 14:56:56 CEST 2022
+base.0=C\:\\android_projects\\truthordare3\\android\\app\\build\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

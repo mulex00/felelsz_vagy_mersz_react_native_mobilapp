@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable_rn_edit_text_material.xml.flat",
+        "source": "com.felelszvagymersz.app-main-29:/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-mdpi_src_img_nightsky.jpg.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-mdpi/src_img_nightsky.jpg"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-mdpi_src_img_completed.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-mdpi/src_img_completed.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.felelszvagymersz.app-main-29:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.felelszvagymersz.app-main-29:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-mdpi_src_img_drink.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-mdpi/src_img_drink.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-mdpi_src_img_gamelogo.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-mdpi/src_img_gamelogo.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "com.felelszvagymersz.app-merged_res-28:/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "com.felelszvagymersz.app-react-23:/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    }
+]
